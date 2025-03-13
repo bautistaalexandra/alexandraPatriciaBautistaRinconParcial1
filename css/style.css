@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+
+footer{
+    margin-top: 10px;
+    background-color: aqua;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.colorRGB{
+    color:rgb(255, 156, 51)
+}
+.pDiferente{
+    color: green;
+}
+
+
+
+
